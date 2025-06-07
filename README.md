@@ -23,9 +23,9 @@ This project explores global video game sales data using **SQL** and **Power BI*
 ├── sql/
 │   └── vg_sales_analytics.sql
 ├── powerbi/
-│   └── video_game_sales_dashboard.pbix
+│   └── vgsales_report.pbix
 ├── images/
-│   └── dashboard_screenshots.png
+│   └── vgsales_report.pdf
 └── README.md
 ```
 
